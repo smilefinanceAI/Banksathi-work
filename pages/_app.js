@@ -4,7 +4,9 @@ import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 
 // Google Analytics ID (free signup karo)
-const GA_ID = 'G-XXXXXXXXXX'; // अपना GA ID डालो
+const GA_ID = 'G-G-93L7XN6ECR
+
+'; // अपना GA ID डालो
 
 export default function MyApp({ Component, pageProps }) {
   const router = useRouter();
