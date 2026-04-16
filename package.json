@@ -1,7 +1,6 @@
 {
   "name": "banksathi-platform",
   "version": "1.0.0",
-  "description": "Financial Products Platform",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
