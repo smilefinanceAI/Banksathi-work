@@ -1,12 +1,11 @@
 {
-  "name": "banksathi-financial-platform",
+  "name": "banksathi-platform",
   "version": "1.0.0",
-  "description": "Pan India Financial Products Comparison - Loans, Credit Cards, Demat, Savings",
+  "description": "Financial Products Platform",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "export": "next export"
+    "start": "next start"
   },
   "dependencies": {
     "next": "14.0.4",
